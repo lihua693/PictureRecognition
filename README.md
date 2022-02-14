@@ -29,12 +29,7 @@ key=key  value=a038a418-1e86-4197-859d-24aed35765d1
 ### 相关依赖
 
 ```
-# 安装python的Web框架 tornado
-pip install tornado
-# 安装OCR工具 paddleocr
-pip install paddleocr
-# 如运行不成功执行
-python -m pip install paddlepaddle -i https://mirror.baidu.com/pypi/simple
+pip install -r requirements.txt
 ```
 
 ### uuid.text格式
